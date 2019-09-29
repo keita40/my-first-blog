@@ -2,7 +2,14 @@ djangogirls
 ユーザー情報
 ユーザー：keita
 mail:inu_hury81@yahoo.co.jp
+（ギットも）
 password:Yan・・・・・・・
 
 パイソンの仮想環境とはvenvの中にいるときにpythonのコマンド（pipコマンドなど）が入ると仮想環境の中のpythonを使うことになる。通常はpythonコマンドが入力された場合、パソコンに入ったpythonが使用されるが、仮想環境にいる場合は仮想環境内でインストールしたpythonが使われる。この二つは別物である。
 Pythonコマンド以外は仮想環境の影響はないため仮想環境に入っていることを考慮せずに使える。
+
+.gitignorファイルの生成
+.gitignorファイルはgitに乗せると困るような個人情報や、無駄だと思うファイルを設定する。テキストにファイル名を記載して、ファイル名を「.gitignor」にするだけで良い
+
+giturl
+https://github.com/keita40/my-first-blog.git
