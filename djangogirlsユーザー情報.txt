@@ -13,3 +13,6 @@ Pythonコマンド以外は仮想環境の影響はないため仮想環境に�
 
 giturl
 https://github.com/keita40/my-first-blog.git
+
+pythonanywhereサイトurl
+keita40.pythonanywhere.com
